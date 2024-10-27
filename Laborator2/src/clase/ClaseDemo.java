@@ -78,5 +78,4 @@ class Clase {
         cursuri.mediaNotelorProfesor(prof);
         System.out.println();
     }
-    //mail: nicolae.patrascu@student.unitbv.ro
 }
