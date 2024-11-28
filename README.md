@@ -11,3 +11,10 @@ Laboratorul 4:
     * Modificat clasa astfel incat ambii membrii sa fie de acelasi tip
     * Adaugat metoda swap pentru a interschimba cei doi membri
     * Adaugat o metoda statica PairUtil.minmax care sa calculeze atat maximul cat si minimul dintr-un sir de elemente de tip T.
+
+Laboratorul 5:
+- Modificat clasa Curs din laboratoarele anterioare astfel incat:
+   * Studenti este acum o lista
+   * Studentii sunt indentificati in mod unic dupa nume, prenume si grupa
+- Modificat clasa ManagerCursuri astfel incat:
+   * Cursurile au devenit o lista de cursuri
